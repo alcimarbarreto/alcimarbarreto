@@ -6,6 +6,7 @@
 -->
 
 <div align="center">
+   
 # Alcimar Barreto - Página Principal
 
 ![Preview](https://alcimarbarreto.github.io/img/tela.png)
